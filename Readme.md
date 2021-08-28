@@ -8,7 +8,7 @@ This is BackEnd service for Json Web Token Authentication (JWT).
 - jsonwebtoken
 - morgan
 - bcrypt
-- dotenv (to store secrete key)
+- dotenv (to store secret key)
 
 ### To run this service : ###
 1. Clone this Repository
